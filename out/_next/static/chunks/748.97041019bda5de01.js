@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[748],{2888:function(e){e.exports={style:{fontFamily:"'__Inter_db4c1e', '__Inter_Fallback_db4c1e'",fontStyle:"normal"},className:"__className_db4c1e"}}}]);
